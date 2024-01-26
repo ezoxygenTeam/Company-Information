@@ -20,11 +20,12 @@ We're also pioneering in ultrasonic applications, developing systems for wireles
 
 
 ### The Main Project
-[Try-Breath]()
-
-
-
-
+- [Try-Breath](https://github.com/ezoxygenTeam/Try-Breath)
+- [ezOxygen](https://github.com/ezoxygenTeam/ezOxygen)
+- [Motion-Detect-APP](https://github.com/ezoxygenTeam/Motion-Detect-APP)
+- [Ultrasonic-Medical-Device](https://github.com/ezoxygenTeam/Ultrasonic-Medical-Device)
+- [Ultrasonic-Home-Security](https://github.com/ezoxygenTeam/Ultrasonic-Home-Security)
+- [Ultrasonic-Spatial-Audio](https://github.com/ezoxygenTeam/Ultrasonic-Spatial-Audio)
 
 ### Contact us
 
