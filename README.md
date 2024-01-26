@@ -23,9 +23,22 @@ We're also pioneering in ultrasonic applications, developing systems for wireles
 
 ### The Company Introduction PDF & video
 
-[**Company Introduction PDF**](https://github.com/ezoxygenTeam/Company-Information/blob/main/Proposal-for-Collaboration-between-Genius-Holding-and-OpenAI-Converge-2_20240125.pdf)  
+[Company Introduction PDF](https://github.com/ezoxygenTeam/Company-Information/blob/main/Proposal-for-Collaboration-between-Genius-Holding-and-OpenAI-Converge-2_20240125.pdf)  
 
 Video
+
+---
+
+### The Company GPTs Application
+
+[Dr. Genius Smart Breathing](https://chat.openai.com/g/g-AJjVV45xf-dr-genius-smart-breathing)  
+Assists with Try Breath and ezOxygen products  
+
+[Heartbeat Helper](https://chat.openai.com/g/g-NTHn7hdDJ-heartbeat-helper)  
+Your friendly guide to understanding blood pressure, accessible to all ages  
+
+[Diabetes Companion](https://chat.openai.com/g/g-skY90wNpQ-diabetes-companion)  
+In-depth guide on blood glucose tests and diabetes.  
 
 ---
 
@@ -41,13 +54,18 @@ Video
 - [Ultrasonic-Home-Security](https://github.com/ezoxygenTeam/Ultrasonic-Home-Security)
 
 - [Ultrasonic-Spatial-Audio](https://github.com/ezoxygenTeam/Ultrasonic-Spatial-Audio)
+  
+- [SmartFacroty](https://github.com/ezoxygenTeam/Smart-Factory)
 
 ---
 
 ### Contact us
 
 Office website: https://try-breath.com/  
+
 Linkedin: https://www.linkedin.com/company/ezoxygen/  
+
 Facebook: https://www.facebook.com/ezoxygen  
+
 e-mail: <service@genius-gh.com>
 
