@@ -21,9 +21,11 @@ We're also pioneering in ultrasonic applications, developing systems for wireles
 
 ---
 
-### The Company Pitch deck & video
+### The Company Introduction PDF & video
 
-test
+[**Company Introduction PDF**](https://github.com/ezoxygenTeam/Company-Information/blob/main/Proposal-for-Collaboration-between-Genius-Holding-and-OpenAI-Converge-2_20240125.pdf)  
+
+Video
 
 ---
 
