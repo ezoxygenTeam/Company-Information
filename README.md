@@ -25,11 +25,15 @@ We're also pioneering in ultrasonic applications, developing systems for wireles
 
 [Company Introduction PDF](https://github.com/ezoxygenTeam/Company-Information/blob/main/Proposal-for-Collaboration-between-Genius-Holding-and-OpenAI-Converge-2_20240125.pdf)  
 
+[The Ultrasonic Technology Introduction](https://github.com/ezoxygenTeam/Company-Information/blob/main/202402-Genius%20ultrasound%20technologies%20introduction.pdf)  
+
 [Video](https://youtu.be/BbIGJvei27k)
 
 ---
 
 ### The Company GPTs Application
+Below are the GPTs currently available for use.   
+*Now, we are currently trying to modify GPT for public release so that everyone can access it on the GPTs Store. Please stay tuned for updates.*  
 
 [Dr. Genius Smart Breathing](https://chat.openai.com/g/g-AJjVV45xf-dr-genius-smart-breathing)  
 Assists with Try Breath and ezOxygen products  
