@@ -32,14 +32,17 @@ We're also pioneering in ultrasonic applications, developing systems for wireles
 ---
 
 ### The Company GPTs Application
-Below are the GPTs currently available for use.   
-*Now, we are currently trying to modify GPT for public release so that everyone can access it on the GPTs Store. Please stay tuned for updates.*  
+Below are the GPTs currently **in public** release so everyone can search **Dr. Genius Smart Breathing** and **Heartbeat Helper** on the GPTs Store.  Or search the builder name as **"try-breath.com"**.
 
 [Dr. Genius Smart Breathing](https://chat.openai.com/g/g-AJjVV45xf-dr-genius-smart-breathing)  
 Assists with Try Breath and ezOxygen products  
 
 [Heartbeat Helper](https://chat.openai.com/g/g-NTHn7hdDJ-heartbeat-helper)  
 Your friendly guide to understanding blood pressure, accessible to all ages  
+
+<br>
+
+Below are the GPTs currently available for use via the **link**.   
 
 [Diabetes Companion](https://chat.openai.com/g/g-skY90wNpQ-diabetes-companion)  
 In-depth guide on blood glucose tests and diabetes.  
