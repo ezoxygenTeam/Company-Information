@@ -32,7 +32,7 @@ We're also pioneering in ultrasonic applications, developing systems for wireles
 ---
 
 ### The Company GPTs Application
-Below are the GPTs currently **in public** release so everyone can search **Dr. Genius Smart Breathing** and **Heartbeat Helper** on the GPTs Store.  Or search the builder name as **"try-breath.com"**.
+Below are the GPTs currently **in public** release so everyone can search **Dr. Genius Smart Breathing**, **Heartbeat Helper**, and **Blood Sugar Buddy** on the GPTs Store.  Or search the builder name as **"try-breath.com"**.
 
 [Dr. Genius Smart Breathing](https://chat.openai.com/g/g-AJjVV45xf-dr-genius-smart-breathing)  
 Assists with Try Breath and ezOxygen products  
@@ -40,12 +40,14 @@ Assists with Try Breath and ezOxygen products
 [Heartbeat Helper](https://chat.openai.com/g/g-NTHn7hdDJ-heartbeat-helper)  
 Your friendly guide to understanding blood pressure, accessible to all ages  
 
+[Blood Sugar Buddy](https://chat.openai.com/g/g-NtxU4aanX-blood-sugar-buddy)  
+Helps understand and manage diabetes, encourages positive lifestyle.  
+
 <br>
 
-Below are the GPTs currently available for use via the **link**.   
+*Additionally, we have prepared numerous GPTs related to our company's knowledge and technology, which we plan to update progressively soon.*  
 
-[Diabetes Companion](https://chat.openai.com/g/g-skY90wNpQ-diabetes-companion)  
-In-depth guide on blood glucose tests and diabetes.  
+
 
 ---
 
